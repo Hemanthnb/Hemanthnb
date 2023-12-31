@@ -1,6 +1,6 @@
 ![Header](https://github.com/Hemanthnb/Hemanthnb/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Hemanth</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <img align="right" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTV3anBnZTVtMnpzMGZkbTRlZzJtbDdnNHd0YWluNDY5NnRxZXk3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developing..." />
 
 
