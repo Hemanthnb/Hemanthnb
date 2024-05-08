@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanthnb&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthnb" /> </p>
 
-- 🔭 I’m currently working on **Flask, ReactJS**
+- 🔭 I’m currently working on ReactJS**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Next JS**
 
-- 💬 Ask me about **ReactJS, Flask**
+- 💬 Ask me about **ReactJS, **FrontEnd Dev
 
 - 📫 How to reach me **hemanthnb01@gmail.com**
 
